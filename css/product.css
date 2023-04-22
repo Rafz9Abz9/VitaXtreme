@@ -2,14 +2,19 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
-    background-color: transparent;
+    font-family: 'Poppins', sans-serif;  
   }
 
 body {
-    background-image: url(./img/bg2.jpg);
+   background-image: url("./img/bg3.avif");
    width: 100%;
    height: 100%;
+}
+
+.main {
+    width: 100%;
+    background: #f4f4f4; 
+    height: 100%;
 }
 
   .navbar {
@@ -87,6 +92,7 @@ ul li a:hover {
 .productImage {
     width: 300px;
     height: 350px;
+    cursor: pointer;
 }
 
 .productDescription {
@@ -102,8 +108,8 @@ ul li a:hover {
 
 
 .column h2 {
-    color: rgb(30, 189, 189);
-    font-weight: normal
+    color: rgb(7, 129, 38);
+    font-weight: bold;
 }
 
 .column p {
@@ -132,6 +138,20 @@ button:hover {
     background-color: aqua;
     cursor: pointer;
 }
+
+
+/* Creating the footer section */
+
+
+
+
+
+
+
+
+
+
+
 
 
 @media (max-width: 767px) {

@@ -11,6 +11,12 @@
     height: 100%;
  }
 
+ .main {
+    width: 100%;
+    background: #f4f4f4; 
+    height: 100%;
+}
+
  .navbar {
     width: auto;
     height: 75px;
@@ -201,6 +207,26 @@ ul li a:hover {
     padding: 10px;
     font-size: 18px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Creating the footer section */
 
 @media (max-width: 767px) {
     .contact {
