@@ -5,7 +5,7 @@
     font-family: 'Poppins', sans-serif;  
   }
 
-  body {
+body {
     background-image: url(./img/bg2.jpg);
     width: 100%;
     height: 100%;
@@ -70,8 +70,10 @@ ul li a {
     font-weight: bolder;
 }
 
-ul li a:hover {
-    color: red;
+ ul li a:hover {
+    opacity: 1;
+    color: rgb(2, 146, 190);
+    transition: 0.5s;
 }
 
 .contact {
@@ -215,18 +217,53 @@ ul li a:hover {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 /* Creating the footer section */
+
+.footerContainer {
+    width: 100%;
+    height: 90px;
+    background: #f4f4f4;
+    display: flex; 
+}
+
+.socials {
+    display: flex;
+    justify-content: right;
+    font-size: 20px;
+}
+
+.socials a {
+    text-decoration: none;
+    background-color: white;
+    margin: 50px;
+    border-radius: 50%;
+}
+
+.socials a i {
+    color: rgb(6, 77, 66);
+    opacity: 0.9;
+}
+
+.socials a i:hover {
+    transition: 0.5s;
+    color: rgb(233, 129, 44);
+}
+
+.footerNav ul li a:hover {
+    opacity: 1;
+    color: rgb(2, 146, 190);
+}
+
+
+
+
+
+
+
+
+
+
+
 
 @media (max-width: 767px) {
     .contact {
