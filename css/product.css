@@ -122,9 +122,9 @@ button {
     font-family: monospace;
 }
 
-button:hover {
+button a:hover {
     opacity: 1;
-    background-color: rgb(168, 207, 255);
+    background-color: rgb(12, 107, 222);
     cursor: pointer;
 }
 
