@@ -144,10 +144,12 @@ button a:hover {
 .message p {
     margin-top: 20px;
     font-size: 18px;
+    font-family: 'Poppins';
 }
 
 .fa-light {
     margin-right: 25px;
+    color: rgb(147, 235, 147);
 }
 
 
