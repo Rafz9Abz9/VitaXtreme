@@ -245,7 +245,7 @@ button a:hover {
 
 /* Making it responsive */
 
-@media screen and (max-width:1005px) {
+@media screen and (max-width:1002px) {
     .container {
         flex-wrap: wrap;
     }

@@ -120,6 +120,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    
     border-radius: 70%;
     font-size: 30px;
 }
