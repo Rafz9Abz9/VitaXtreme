@@ -147,9 +147,9 @@ button a:hover {
     font-family: 'Poppins';
 }
 
-.fa-light {
+.fa {
     margin-right: 25px;
-    color: rgb(147, 235, 147);
+    color: rgb(30, 209, 30);
 }
 
 
@@ -240,4 +240,19 @@ button a:hover {
     margin: 0px 5px;
     color: black;
     font-family: cursive;
+}
+
+
+/* Making it responsive */
+
+@media screen and (max-width:1005px) {
+    .container {
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width:712px) {
+    .container {
+        justify-content: center;
+    }
 }

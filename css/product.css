@@ -218,3 +218,17 @@ button:hover {
 }
 
 
+/* Making it responsive */
+
+
+@media screen and (max-width:1010px) {
+    .categories {
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width:708px) {
+    .categories {
+        justify-content: center;
+    }
+}
