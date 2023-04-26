@@ -120,7 +120,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    
+
     border-radius: 70%;
     font-size: 30px;
 }
@@ -211,27 +211,15 @@
 .footer {
     width: 100%;
     background: #f4f4f4; 
-}
-
-
-.footerNav {
-    width: 100%;
-    padding: 5px;
-}
-
-.footerNav ul {
     display: flex;
-    justify-content: center;
-    list-style-type: none;
+    flex-direction: column;
 }
 
-.footerNav ul li a {
-    text-decoration: none;
-    color: black;
-    font-family: 'Poppins';
-    transition: 0.5s;
-    font-weight: bolder;
-    margin: 20px;
+.footerTop {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row-reverse;
 }
 
 .footerLinks {
@@ -293,4 +281,32 @@
     margin: 0px 5px;
     color: black;
     font-family: cursive;
+}
+
+/* Making it responsive */
+
+@media screen and (max-width:640px) {
+    .menuLinks {
+      width: 100%;
+    }
+    
+    .navbar {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width:380px) {
+    .navbar {
+        padding: 0 25px;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .footerLinks a{
+         font-size: 12px;
+    }
+
+    .footerSocials a {
+       font-size: 12px;
+    }
 }
