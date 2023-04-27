@@ -231,19 +231,9 @@ button a:hover {
 }
 
 
-/* Making it responsive */
+/* Making home page responsive */
 
-/* @media screen and (max-width:1002px) {
-    .container {
-        flex-wrap: wrap;
-    }
-}
 
-@media screen and (max-width:712px) {
-    .container {
-        justify-content: center;
-    }
-} */
 
 @media screen and (max-width:640px) {
     .menuLinks {
@@ -275,15 +265,11 @@ button a:hover {
     .text h1 {
         font-size: 28px;
     }
-
-    
 }
 
 @media screen and (max-width:870px) {
     .container {
         margin-top: 0;
-        /* justify-content: space-between; */
-        /* letter-spacing: 1px; */
         padding: 45px 30px;
         align-items: center;
         height: 100%;
@@ -319,7 +305,6 @@ button a:hover {
     }
 
     .message {
-        /* margin-top: 50px; */
         margin-left: 0;
      }
 
@@ -327,5 +312,4 @@ button a:hover {
         font-size: 30px;
         font-family: monospace;
     }
-
 }

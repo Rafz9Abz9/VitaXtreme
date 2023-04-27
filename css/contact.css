@@ -283,7 +283,7 @@
     font-family: cursive;
 }
 
-/* Making it responsive */
+/* Making contact responsive */
 
 @media screen and (max-width:640px) {
     .menuLinks {
@@ -308,5 +308,26 @@
 
     .footerSocials a {
        font-size: 12px;
+    }
+}
+
+@media screen and (max-width:680px) {
+    .contactForm {
+        width: 70%;
+    }
+}
+
+@media screen and (max-width:991px) {
+    .contact {
+        padding: 50px;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    .container, .contactInfo, .contactForm {
+        margin-bottom: 40px;
+        width: 100%;
     }
 }
