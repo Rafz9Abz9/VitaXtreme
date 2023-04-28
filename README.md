@@ -6,16 +6,27 @@
 
 You can find the live site here: https://vitaxtreme.netlify.app/.
 
+
+
 # Wireframes
 
-- All the Wireframes were created for the following devices:
-1. Laptop/Computers
-2. Ipad/Tablets
-3. Phone
+- Homepage Wireframes: 
 
-- Homepage Wireframes:
+![image](https://user-images.githubusercontent.com/126483536/235234667-af280d62-aed5-4963-a3d7-bb9dbe72258d.png)
+
+
+
 - Product Page Wireframes:
+
+![image](https://user-images.githubusercontent.com/126483536/235234608-a9475da4-f3f5-4590-9167-5d2aa25dd315.png)
+
+
+
 - Contact Page Wireframes:
+
+![image](https://user-images.githubusercontent.com/126483536/235234552-a733d24d-576f-417a-9c58-97b9b8f9c843.png)
+
+
 
 # Existing Features
 
