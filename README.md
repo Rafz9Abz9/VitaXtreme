@@ -135,12 +135,7 @@ VALIDATOR TESTING:
 
 # Deployment
 
-- The site was deployed through Github pages by following these steps:
 
-1. After logging into Github, find the section names 'Repository'.
-2. Locate the Settings tab.
-3. Locate the Master Branch from the 'Source' drop-down menu and select it then save it.
-4. This will publish the site and the URL should be visible on the green bar under the header section.
 
 The live link can be found here - https://vitaxtreme.netlify.app/
 
