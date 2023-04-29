@@ -35,6 +35,7 @@ You can find the live site here: https://vitaxtreme.netlify.app/.
 - Navigation Bar can be found on all pages of the website.
 - Each section includes a link that brings the customer to their respective pages. Example: the Contact link will take the customer to the Contact Page. And the 'Cart' icon will take the customer directly to the Product Page. 
 - It allows customers to browse through the website with ease.
+- The logo 'VitaXtreme' contains a link that will take customers back to homepage no matter what page that they are on. They could be on Product page, but if they click on the logo, it will take them back to the homepage.
 
 ![image](https://user-images.githubusercontent.com/126483536/235222231-128e21c4-d6e3-4b90-8dbb-ff7d4eecba2d.png)
 
