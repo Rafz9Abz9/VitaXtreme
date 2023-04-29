@@ -4,9 +4,17 @@
 
 - With VitaXtreme website, customers that are looking to improve the overall health of their hair and beard are able to purchase a bottle or more to start on your hair/beard care journey.
 
-You can find the live site here: https://vitaxtreme.netlify.app/.
+You can find the live site here: https://rafz9abz9.github.io/VitaXtreme/
 
+![image](https://user-images.githubusercontent.com/126483536/235296824-20161184-1f1b-499d-b4c9-7b2aec3cf911.png)
 
+# User Stories
+
+- As a user, I want to be able to understand what the product is for and the benefits of the product.
+- As a user, I want to be able to easily locate the products.
+- As a user, I want to be able to locate the prices of the bottles.
+- As a user, I want to be able to easily see the volumes available for each bottle.
+- As a user, I want to be able to contact someone that can assist me with whatever queries I might have.
 
 # Wireframes
 
@@ -54,7 +62,7 @@ You can find the live site here: https://vitaxtreme.netlify.app/.
 3. PRODUCT PAGE SECTION:
 
 - Introduces a layout of the bottles available for purchase with their prices and sizes included.
-- There is an 'Add To Basket' button present underneath the bottles but wasn't intentionally made functional for now.
+- There is an 'Add To Basket' button present underneath the bottles but it is just for decoration - wasn't made functional intentionally.
 
 ![image](https://user-images.githubusercontent.com/126483536/235222677-bfcb1647-d4e9-41bd-a3fd-fcbff0858369.png)
 
@@ -79,6 +87,9 @@ You can find the live site here: https://vitaxtreme.netlify.app/.
 
 ![image](https://user-images.githubusercontent.com/126483536/235223824-e4f30ddb-68be-42f3-ab6a-7bb6b3202b11.png)
 
+- The form also allows customers to send a message:
+
+![image](https://user-images.githubusercontent.com/126483536/235296938-00b278fb-4fa0-49be-8a05-2ead11786b3e.png)
 
 
 
@@ -113,9 +124,9 @@ VALIDATOR TESTING:
 
 ![image](https://user-images.githubusercontent.com/126483536/235285602-48ea3d4a-6fcd-4a7b-9486-9b9ddc52146b.png)
 
+- Lighthouse Testing Results:
 
-
-
+![image](https://user-images.githubusercontent.com/126483536/235297191-d2f642b5-5a2e-422f-8e70-542d57b91661.png)
 
 
 # Languages Used
@@ -127,6 +138,7 @@ VALIDATOR TESTING:
 
 - Font Awesome: used to get icons for the website.
 - Github: hosting repository.
+- Github Pages: for deploying the site.
 - Balsamiq: creating wireframes.
 - Lighthouse: review of website.
 - Readme.so: to write up the README.
@@ -135,9 +147,15 @@ VALIDATOR TESTING:
 
 # Deployment
 
+- The site was deployed through Github pages by following these steps:
 
+1. After logging into Github, find the section names 'Repository'.
+2. Locate the Settings tab.
+3. Locate the Master Branch from the 'Source' drop-down menu and select it then save it.
+4. This will publish the site and the URL should be visible.
 
-The live link can be found here - https://vitaxtreme.netlify.app/
+The live link can be found here - https://rafz9abz9.github.io/VitaXtreme/ 
+
 
 
 # Cloning Project
