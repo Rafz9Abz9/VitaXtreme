@@ -104,6 +104,18 @@ VALIDATOR TESTING:
 - HTML: https://validator.w3.org/
 - CSS: https://jigsaw.w3.org/css-validator/
 
+- When I first checked my codes for any errors, I received this result:
+
+![image](https://user-images.githubusercontent.com/126483536/235285560-b79b7bc5-5e79-4d66-8c62-59a7ec26a69a.png)
+
+- After I fixed the errors, I received this result:
+
+![image](https://user-images.githubusercontent.com/126483536/235285602-48ea3d4a-6fcd-4a7b-9486-9b9ddc52146b.png)
+
+
+
+
+
 
 # Languages Used
 
