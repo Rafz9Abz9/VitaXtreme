@@ -120,7 +120,7 @@ button {
     font-family: monospace;
 }
 
-button a:hover {
+a button:hover {
     opacity: 1;
     color: rgb(30, 189, 189);
     transition: 0.5s;
